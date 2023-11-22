@@ -1,0 +1,4 @@
+"• Performed fetal head segmentation using Zenodo's 1000 ultrasound images with annotated counterparts.
+• Employed an Encoder Decoder based architecture, UNET for efficient segmentation of medical images.
+• Utilized Residual Connections between the Encoder and Decoder at various levels for efficient gradient flow.
+• Achieved impressive Dice score outcomes: 0.94 on the validation dataset and 0.91 on the test dataset."
